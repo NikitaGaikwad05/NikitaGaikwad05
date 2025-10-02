@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaikwad Nikita Mahadev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 - 🌱 I’m currently learning **DSA,Web-Development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/gaikwad-nikita-436016327](www.linkedin.com/in/gaikwad-nikita-436016327)
