@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaikwad Nikita Mahadev</h1>
-<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Web Developer from India 🇮🇳</h3>
 
 ### 👩‍💻 About Me
 - 🌱 Currently learning **DSA & Web Development**
