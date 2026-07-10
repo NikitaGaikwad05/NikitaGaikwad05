@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Web Developer from India 🇮🇳</h3>
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **DSA & Web Development**
+- 🌱 Currently learning **DSA In java & Web Development**
 - 👨‍💻 All projects available at:  
   👉 [https://github.com/NikitaGaikwad05](https://github.com/NikitaGaikwad05)
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java,C, Git and GitHub **
 - 📫 Reach me at **gaikwadnikitamahadev1@gmail.com**
   
 ### 🤝 Connect with Me
@@ -27,13 +27,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg" width="40"/>
 </p>
 
 
 ### 🚀 What I’m Working On
 - Building responsive frontend projects
 - Strengthening problem-solving using DSA
-- Improving Java & C++ fundamentals
 - Practicing LeetCode regularly
   
 ⭐ *Thanks for visiting my profile!*  
