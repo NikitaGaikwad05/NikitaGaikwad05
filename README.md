@@ -27,8 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg" width="40"/>
-</p>
+  </p>
 
 
 ### 🚀 What I’m Working On
