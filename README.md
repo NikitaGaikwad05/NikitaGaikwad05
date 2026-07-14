@@ -20,10 +20,6 @@
   </a>
 </p>
 
-### 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YhezLZvVGJ?theme=light&font=Baloo)
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
