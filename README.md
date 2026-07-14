@@ -2,23 +2,30 @@
 <h3 align="center">A Passionate Web Developer from India 🇮🇳</h3>
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **DSA In java & Web Development**
-- 👨‍💻 All projects available at:  
-  👉 [https://github.com/NikitaGaikwad05](https://github.com/NikitaGaikwad05)
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Java,C, Git and GitHub **
+- 🌱 Currently learning **DSA in Java & Web Development**
+- 👨‍💻 All projects available at:
+  👉 https://github.com/NikitaGaikwad05
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java, Git & GitHub**
 - 📫 Reach me at **gaikwadnikitamahadev1@gmail.com**
-  
+
 ### 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/gaikwad-nikita-436016327" target="_blank">
+  <a href="https://www.linkedin.com/in/gaikwad-nikita-436016327/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://leetcode.com/u/YhezLZvWJ/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-</a>
+
+  <a href="https://leetcode.com/u/YhezLZvVGJ/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  </a>
 </p>
 
+### 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YhezLZvVGJ?theme=light&font=Baloo)
+
 ### 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -27,14 +34,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  </p>
+</p>
 
-
-### 🚀 What I’m Working On
+### 🚀 What I'm Working On
 - Building responsive frontend projects
 - Strengthening problem-solving using DSA
 - Practicing LeetCode regularly
-  
-⭐ *Thanks for visiting my profile!*  
-✨ *Feel free to explore my repositories and connect with me.*
 
+⭐ Thanks for visiting my profile!
